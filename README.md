@@ -36,6 +36,7 @@ She's never had a private thought. If you can't hide who you are... you have to 
 * [The Browser Demo (HTML5)](http://demo.nothingtohide.cc/)
 * [Website / Crowdfunding Campaign](http://back.nothingtohide.cc/)
 * [Nothing To Say Newsletter](http://tinyletter.com/nothingtohide/letters)
+* Websites does not work anymore with the crowdfunding and browser demo bought by Namecheap. Please don't enter them, **although if you want to, you can**. -Prokak
 
 ### Credits
 
