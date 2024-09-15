@@ -1,3 +1,9 @@
+Dam it actually worked I got access to Nicky's source code- oh wait nevermind it's just an **import**
+
+-Prokak
+
+---
+
 ![](https://pbs.twimg.com/media/CHzbQfKUcAA22C2.png:large)
 
 **UPDATE (June 18th, 2015)**
@@ -30,6 +36,7 @@ She's never had a private thought. If you can't hide who you are... you have to 
 * [The Browser Demo (HTML5)](http://demo.nothingtohide.cc/)
 * [Website / Crowdfunding Campaign](http://back.nothingtohide.cc/)
 * [Nothing To Say Newsletter](http://tinyletter.com/nothingtohide/letters)
+* Websites does not work anymore with the crowdfunding and browser demo bought by Namecheap. Please don't enter them, **although if you want to, you can**. -Prokak
 
 ### Credits
 
